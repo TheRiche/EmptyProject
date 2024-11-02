@@ -1,0 +1,3 @@
+C:/Users/richa/Documents/VScode/EmptyProject/build/debug/CMakeFiles/EmptyProject.dir
+C:/Users/richa/Documents/VScode/EmptyProject/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/richa/Documents/VScode/EmptyProject/build/debug/CMakeFiles/rebuild_cache.dir
